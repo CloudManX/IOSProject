@@ -6,5 +6,3 @@
 //  Copyright © 2016 SecondFloorStudio. All rights reserved.
 //
 
-print("hello world");
-
