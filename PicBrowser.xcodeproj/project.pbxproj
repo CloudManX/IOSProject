@@ -14,6 +14,7 @@
 		AEDF9BFD1CA2405500BDF792 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AEDF9BFB1CA2405500BDF792 /* LaunchScreen.storyboard */; };
 		AEDF9C081CA2405500BDF792 /* PicBrowserTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDF9C071CA2405500BDF792 /* PicBrowserTests.swift */; };
 		AEDF9C131CA2405500BDF792 /* PicBrowserUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDF9C121CA2405500BDF792 /* PicBrowserUITests.swift */; };
+		AEDF9C211CA2414E00BDF792 /* helloWorld.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEDF9C201CA2414E00BDF792 /* helloWorld.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		AEDF9C0E1CA2405500BDF792 /* PicBrowserUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PicBrowserUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AEDF9C121CA2405500BDF792 /* PicBrowserUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PicBrowserUITests.swift; sourceTree = "<group>"; };
 		AEDF9C141CA2405500BDF792 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AEDF9C201CA2414E00BDF792 /* helloWorld.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = helloWorld.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				AEDF9BF21CA2405500BDF792 /* AppDelegate.swift */,
+				AEDF9C201CA2414E00BDF792 /* helloWorld.swift */,
 				AEDF9BF41CA2405500BDF792 /* ViewController.swift */,
 				AEDF9BF61CA2405500BDF792 /* Main.storyboard */,
 				AEDF9BF91CA2405500BDF792 /* Assets.xcassets */,
@@ -261,6 +264,7 @@
 			files = (
 				AEDF9BF51CA2405500BDF792 /* ViewController.swift in Sources */,
 				AEDF9BF31CA2405500BDF792 /* AppDelegate.swift in Sources */,
+				AEDF9C211CA2414E00BDF792 /* helloWorld.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
